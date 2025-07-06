@@ -1,0 +1,5 @@
+theme = 'hugo-theme-relearn-main'
+
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Sgooosh Botany and Aquatics'
