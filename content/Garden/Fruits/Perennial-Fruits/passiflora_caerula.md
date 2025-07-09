@@ -1,10 +1,10 @@
 +++
 date = '2025-06-12T14:33:06-07:00'
-title = 'Passiflora caerula'
+title = 'Blue Passionflower, Passiflora caerula'
 +++
 ![Passiflora caerula collage](pcaerula.jpeg)
 
-*Passiflora caerula*, the Blue Passionflower, with passiflora meaning "passion flower" and caerula meaning "blue" in latin, blooms with otherworldy flowers in perfect radial symmetry. Apparently, passionflower is prominent in Christianity as a symbol of Jesus' crucifixion. The vine bears a fruit as alienlike as the flower which came before it. An airy and yellow-orange oblong fruit contains a packet of slimy red seeds suspended in the middle of the fruit by sponge-like fibers.
+*Passiflora caerula*, the Blue Passionflower, with passiflora meaning "passion flower" and caerula meaning "blue" in latin, blooms with otherworldy flowers in perfect radial symmetry. The blue passionflower is prominent in Christianity as a symbol of Jesus' crucifixion. The vine bears a fruit as alienlike as the flower which came before it. An airy and yellow-orange oblong fruit contains a packet of slimy red seeds suspended in the middle of the fruit by sponge-like fibers.
 
 ### Overview
 1. Growth

@@ -4,4 +4,15 @@ type = "chapter"
 weight = 1
 +++
 
-This is a new chapter.
+![Alt Text](template.jpeg)
+
+### Annual fruits 
+
+### Overview
+1. Growth
+    - Leaves
+    - Flowers
+2. Care
+    - Maintenance 
+    - Conditions 
+3. Special?

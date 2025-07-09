@@ -1,11 +1,11 @@
 +++
 date = '2025-06-27T20:47:27-07:00'
 draft = false
-title = 'Akebia Quinata'
+title = 'Chocolate vine, or Akebia quinata'
 +++
 ![Alt Text](template.jpeg)
 
-*Species Name*, the Plant. etc. Write a introductory description of the plant.
+*Akebia quinata*, the Five leaved chocolate vine. Seemingly tropical compound leaves gro
 
 ### Overview
 1. Growth

@@ -1,5 +1,5 @@
 +++
-title = "Vegetables"
+title = "Annual Ornamental Plants"
 type = "chapter"
 weight = 1
 +++

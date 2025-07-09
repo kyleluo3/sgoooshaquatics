@@ -1,5 +1,5 @@
 +++
-title = "Vegetables"
+title = "Perennial Vegetables"
 type = "chapter"
 weight = 1
 +++

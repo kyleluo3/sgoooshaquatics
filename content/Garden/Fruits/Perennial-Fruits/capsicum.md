@@ -1,7 +1,7 @@
 +++
 date = '2025-06-27T20:47:19-07:00'
 draft = false
-title = 'Capsicum'
+title = 'Peppers- Capsicum'
 +++
 ![Alt Text](template.jpeg)
 
